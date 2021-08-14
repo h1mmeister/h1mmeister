@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @h1mmeister
-- 👀 I’m interested in Software Engineering and learning Deep Learning.
+- 👀 I’m interested in software engineering and learning deep learning algorithms.
